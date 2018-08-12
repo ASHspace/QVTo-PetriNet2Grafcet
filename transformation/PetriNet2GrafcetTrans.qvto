@@ -49,4 +49,3 @@ mapping PetriNet::PlaceToTransition::Step2Trans(): Grafcet::StepToTransition
 	location := self.location;	
 }
 
-
